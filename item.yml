@@ -1,0 +1,125 @@
+items:
+  WOODEN_SWORD:
+    attributes:
+      damage: 4
+      attack_speed: 1.6
+  GOLDEN_SWORD:
+    rarity: UNCOMMON
+    attributes:
+      damage: 4
+      attack_speed: 1.6
+  IRON_SWORD:
+    rarity: UNCOMMON
+    attributes:
+      damage: 6
+      attack_speed: 1.6
+  STONE_SWORD:
+    attributes:
+      damage: 5
+      attack_speed: 1.6
+  DIAMOND_SWORD:
+    rarity: RARE
+    attributes:
+      damage: 7
+      attack_speed: 1.6
+  NETHERITE_SWORD:
+    rarity: LEGENDARY
+    attributes:
+      damage: 8
+      attack_speed: 1.6
+  LEATHER_HELMET:
+    attributes:
+      defense: 10
+  LEATHER_CHESTPLATE:
+    attributes:
+      defense: 30
+  LEATHER_LEGGINGS:
+    attributes:
+      defense: 20
+  LEATHER_BOOTS:
+    attributes:
+      defense: 10
+  GOLDEN_HELMET:
+    rarity: UNCOMMON
+    attributes:
+      defense: 20
+  GOLDEN_CHESTPLATE:
+    rarity: UNCOMMON
+    attributes:
+      defense: 50
+  GOLDEN_LEGGINGS:
+    rarity: UNCOMMON
+    attributes:
+      defense: 30
+  GOLDEN_BOOTS:
+    rarity: UNCOMMON
+    attributes:
+      defense: 10
+  CHAINMAIL_HELMET:
+    rarity: EPIC
+    attributes:
+      defense: 20
+  CHAINMAIL_CHESTPLATE:
+    rarity: EPIC
+    attributes:
+      defense: 50
+  CHAINMAIL_LEGGINGS:
+    rarity: EPIC
+    attributes:
+      defense: 40
+  CHAINMAIL_BOOTS:
+    rarity: EPIC
+    attributes:
+      defense: 10
+  IRON_HELMET:
+    rarity: UNCOMMON
+    attributes:
+      defense: 20
+  IRON_CHESTPLATE:
+    rarity: UNCOMMON
+    attributes:
+      defense: 60
+  IRON_LEGGINGS:
+    rarity: UNCOMMON
+    attributes:
+      defense: 50
+  IRON_BOOTS:
+    rarity: UNCOMMON
+    attributes:
+      defense: 20
+  DIAMOND_HELMET:
+    rarity: RARE
+    attributes:
+      defense: 30
+  DIAMOND_CHESTPLATE:
+    rarity: RARE
+    attributes:
+      defense: 80
+  DIAMOND_LEGGINGS:
+    rarity: RARE
+    attributes:
+      defense: 60
+  DIAMOND_BOOTS:
+    rarity: RARE
+    attributes:
+      defense: 30
+  NETHERITE_HELMET:
+    rarity: LEGENDARY
+    attributes:
+      defense: 35
+  NETHERITE_CHESTPLATE:
+    rarity: LEGENDARY
+    attributes:
+      defense: 90
+  NETHERITE_LEGGINGS:
+    rarity: LEGENDARY
+    attributes:
+      defense: 60
+  NETHERITE_BOOTS:
+    rarity: LEGENDARY
+    attributes:
+      defense: 35
+  TURTLE_HELMET:
+    rarity: RARE
+    attributes:
+      defense: 20
