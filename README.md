@@ -1,5 +1,5 @@
 # Item contributions
-Contribute to assigning to each vanilla item a custom rarity.
+Contribute to assigning a rarity or adding/removing/modifying attributes to each vanilla item.
 ## Valid rarities
 The valid rarities are the following: `COMMON`, `UNCOMMON`, `RARE`, `EPIC`, `LEGENDARY`, `SPECIAL`. If a item has no rarity specified to it, it will be `COMMON` by default. The `SPECIAL` rarity is reserved for items like the Debug Stick, Command Blocks, End Frames, etc.
 ## Valid materials
