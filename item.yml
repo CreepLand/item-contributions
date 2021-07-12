@@ -123,3 +123,5 @@ items:
     rarity: RARE
     attributes:
       defense: 20
+  MUSIC_DISC_CAT:
+    rarity: LEGENDARY
